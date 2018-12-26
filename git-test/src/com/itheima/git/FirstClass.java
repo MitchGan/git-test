@@ -8,7 +8,7 @@ public class FirstClass {
         System.out.println("git真好用");
         System.out.println("git真好用");
         System.out.println("git真好用");
-        //加注释
+        //加注释啊
     }
 
     public void test(){
